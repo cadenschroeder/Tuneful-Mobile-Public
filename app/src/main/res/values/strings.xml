@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TunefulMobile</string>
+    <string name="dislike">Dislike</string>
+    <string name="grant_type_client_credentials">grant_type=client_credentials</string>
+    <string name="application_x_www_form_urlencoded">application/x-www-form-urlencoded</string>
+    <string name="https_accounts_spotify_com_api_token">https://accounts.spotify.com/api/token</string>
+    <string name="authorization">Authorization</string>
+    <string name="basic">Basic %1$s</string>
+    <string name="unexpected_code">Unexpected code %1$s</string>
+    <string name="access_token">access_token</string>
+    <string name="expires_in">expires_in</string>
+    <string name="bearer">Bearer %1$s</string>
+    <string name="search_song">Search Song</string>
+    <string name="search">Search</string>
+    <string name="w">{w}</string>
+    <string name="h">{h}</string>
+    <string name="album_cover">Album Cover</string>
+    <string name="mediaplayer">MediaPlayer</string>
+    <string name="error_playing_preview">Error playing preview: %1$s</string>
+    <string name="stop">Stop</string>
+    <string name="play_preview">Play Preview</string>
+    <string name="nope">Nope</string>
+    <string name="no_content_generated_yet">No content generated yet</string>
+    <string name="generate">Generate</string>
+    <string name="discover">discover</string>
+    <string name="search_songs">search songs</string>
+    <string name="tuneful">Tuneful</string>
+    <string name="you_haven_t_liked_any_songs_yet">You haven\'t liked any songs yet.</string>
+    <string name="liked_songs">Liked Songs</string>
+    <string name="back">Back</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_your_song_to_queue">Add Your Song to Queue</string>
+    <string name="song_name">Song Name</string>
+    <string name="playback_error">Playback error: %1$s</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="like">Like</string>
+    <string name="preview_not_available">Preview Not Available</string>
+</resources>
