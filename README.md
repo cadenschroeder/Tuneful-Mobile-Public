@@ -25,5 +25,36 @@ Follow these steps to set up and run the project on your local machine:
 ```bash
 git clone https://github.com/YourUsername/YourProjectName.git
 cd Tuneful-Mobile-Public
+```
 
-Then open the project in Android Studio to build and launch on an emulator
+### 3️⃣ Open in Android Studio
+  1. Open Android Studio.
+  2. Select File > Open... and choose the cloned project folder.
+  3. Wait for Gradle sync to complete.
+  4. Then open the project in Android Studio to build and launch on an emulator
+
+### 4️⃣ Secrets Folder
+This folder contains sensitive API keys and should not be committed. Add your `ApiKeys.kt` file to the Secrets Folder.
+
+Format as follows:
+```
+object ApiKeys {
+  val ANDROID_STUDIO_KEY = "..."
+  val SPOTIFY_CLIENT_ID = "..."
+  val SPOTIFY_CLIENT_SECRET = "..."
+  val RAW_APPLE_DEV_KEY = """
+  -----BEGIN PRIVATE KEY-----
+  ...
+  -----END PRIVATE KEY-----""".trimIndent()
+  val APPLE_TEAM_ID = "..."
+  val APPLE_KEY_ID = "..."
+}
+```
+
+### 5️⃣ Build & Run the Project
+  1. Click Sync Project with Gradle Files (if prompted).
+  2. Connect an Android device (enable Developer Mode & USB Debugging) OR start an emulator from Device Manager.
+  3. Press the green Run ▶️ button or Shift + F10.
+  4. Select your device/emulator, and the launch the app!
+
+
