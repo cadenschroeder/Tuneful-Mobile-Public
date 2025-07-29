@@ -9,7 +9,7 @@ Narrow in on your music tastes and discover new songs using Tuneful. Curate the 
   - If you are inspired, you can guide the AI agent by adding a song you are in the mood for in the queue
   - Restart your session at any time by pressing the middle refresh button
 
-## Project Screen Shot(s)
+## Project Screen Shots
 <img width="292" height="647" alt="Screenshot 2025-07-29 at 5 21 33 PM" src="https://github.com/user-attachments/assets/d98ae0cc-6e18-4e72-8882-80817b202275" />
 <img width="307" height="645" alt="Screenshot 2025-07-29 at 5 22 01 PM" src="https://github.com/user-attachments/assets/a324e469-0887-456a-81f2-1545d6ccfa03" />
 <img width="293" height="645" alt="Screenshot 2025-07-29 at 5 22 34 PM" src="https://github.com/user-attachments/assets/b5254f3c-4985-4113-b79f-c8b8c735d09e" />
